@@ -1,0 +1,14 @@
+C:\Users\Daniel\source\repos\InverteString\InverteString\bin\Debug\net8.0\InverteString.exe
+C:\Users\Daniel\source\repos\InverteString\InverteString\bin\Debug\net8.0\InverteString.deps.json
+C:\Users\Daniel\source\repos\InverteString\InverteString\bin\Debug\net8.0\InverteString.runtimeconfig.json
+C:\Users\Daniel\source\repos\InverteString\InverteString\bin\Debug\net8.0\InverteString.dll
+C:\Users\Daniel\source\repos\InverteString\InverteString\bin\Debug\net8.0\InverteString.pdb
+C:\Users\Daniel\source\repos\InverteString\InverteString\obj\Debug\net8.0\InverteString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\source\repos\InverteString\InverteString\obj\Debug\net8.0\InverteString.AssemblyInfoInputs.cache
+C:\Users\Daniel\source\repos\InverteString\InverteString\obj\Debug\net8.0\InverteString.AssemblyInfo.cs
+C:\Users\Daniel\source\repos\InverteString\InverteString\obj\Debug\net8.0\InverteString.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\InverteString\InverteString\obj\Debug\net8.0\InverteString.dll
+C:\Users\Daniel\source\repos\InverteString\InverteString\obj\Debug\net8.0\refint\InverteString.dll
+C:\Users\Daniel\source\repos\InverteString\InverteString\obj\Debug\net8.0\InverteString.pdb
+C:\Users\Daniel\source\repos\InverteString\InverteString\obj\Debug\net8.0\InverteString.genruntimeconfig.cache
+C:\Users\Daniel\source\repos\InverteString\InverteString\obj\Debug\net8.0\ref\InverteString.dll
